@@ -9,8 +9,8 @@ dependencies:
     specifier: ^1.7.12
     version: 1.7.12(react-dom@18.2.0)(react@18.2.0)
   '@headlessui/tailwindcss':
-    specifier: ^0.1.2
-    version: 0.1.2(tailwindcss@3.2.7)
+    specifier: ^0.2.0
+    version: 0.2.0(tailwindcss@3.2.7)
   '@meilisearch/instant-meilisearch':
     specifier: 0.13.3
     version: 0.13.3
@@ -275,8 +275,8 @@ packages:
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
-  /@headlessui/tailwindcss@0.1.2(tailwindcss@3.2.7):
-    resolution: {integrity: sha512-AQNESz+f1grCxifrocOE6hDMDFqhqY0g3xrSGOS0ocGkmVkssaBzXaAPAPNSs/nHmr4ZUhfl5THQpYrvaouWlQ==}
+  /@headlessui/tailwindcss@0.2.0(tailwindcss@3.2.7):
+    resolution: {integrity: sha512-fpL830Fln1SykOCboExsWr3JIVeQKieLJ3XytLe/tt1A0XzqUthOftDmjcCYLW62w7mQI7wXcoPXr3tZ9QfGxw==}
     engines: {node: '>=10'}
     peerDependencies:
       tailwindcss: ^3.0
