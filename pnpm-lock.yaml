@@ -12,8 +12,8 @@ dependencies:
     specifier: ^0.1.2
     version: 0.1.2(tailwindcss@3.2.7)
   '@meilisearch/instant-meilisearch':
-    specifier: 0.13.3
-    version: 0.13.3
+    specifier: 0.13.4
+    version: 0.13.4
   '@popperjs/core':
     specifier: ^2.11.6
     version: 2.11.6
@@ -304,10 +304,10 @@ packages:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
     dev: true
 
-  /@meilisearch/instant-meilisearch@0.13.3:
-    resolution: {integrity: sha512-GzJrma064pA9b/5Tdv/5uX5XGPx+uBgBOe2VGbOJcG4VFfEwmSqYw5kJFl/vrpJ3pYw46xPeFLVUl4cHq1nNlA==}
+  /@meilisearch/instant-meilisearch@0.13.4:
+    resolution: {integrity: sha512-RrNq6Qu6gwwDzFcs/LJKA/W2luL7tLjHpFYclr+t//2Hmy4FtY0xJDUVtXODzHewNy9OZ3NoIi0ohvq7JBMgpA==}
     dependencies:
-      meilisearch: 0.33.0
+      meilisearch: 0.34.0
     transitivePeerDependencies:
       - encoding
     dev: false
@@ -494,7 +494,7 @@ packages:
   /@supabase/functions-js@2.0.0:
     resolution: {integrity: sha512-ozb7bds2yvf5k7NM2ZzUkxvsx4S4i2eRKFSJetdTADV91T65g4gCzEs9L3LUXSrghcGIkUaon03VPzOrFredqg==}
     dependencies:
-      cross-fetch: 3.1.5
+      cross-fetch: 3.1.6
     transitivePeerDependencies:
       - encoding
     dev: false
@@ -502,7 +502,7 @@ packages:
   /@supabase/gotrue-js@2.12.1:
     resolution: {integrity: sha512-r8Jfq8FvP6q4kp7sI33X1RWfEEHzJFu9uM1Q6HgiDVkY89NNgqYy2kxaRGtidPFllND7vpcJUcpoWS5oq+4u0g==}
     dependencies:
-      cross-fetch: 3.1.5
+      cross-fetch: 3.1.6
     transitivePeerDependencies:
       - encoding
     dev: false
@@ -510,7 +510,7 @@ packages:
   /@supabase/postgrest-js@1.4.1:
     resolution: {integrity: sha512-aruqwV/aTggkM7OVv2JinCeXmRMKHJCZpkuS1nuoa0NgLw7g3NyILSyWOKYTBJ/PxE/zXtWsBhdxFzaaNz5uxg==}
     dependencies:
-      cross-fetch: 3.1.5
+      cross-fetch: 3.1.6
     transitivePeerDependencies:
       - encoding
     dev: false
@@ -527,7 +527,7 @@ packages:
   /@supabase/storage-js@2.3.0:
     resolution: {integrity: sha512-YGWVCEYYYF3+UiyL8O4xC78N9n9paLbT0hHl8dmYAtd3DqyWtu5Eph9JTu0PWm+/29Zhns5TbhUZW4xpWjJfPQ==}
     dependencies:
-      cross-fetch: 3.1.5
+      cross-fetch: 3.1.6
     transitivePeerDependencies:
       - encoding
     dev: false
@@ -2308,8 +2308,8 @@ packages:
     engines: {node: '>=12'}
     dev: false
 
-  /meilisearch@0.33.0:
-    resolution: {integrity: sha512-bYPb9WyITnJfzf92e7QFK8Rc50DmshFWxypXCs3ILlpNh8pT15A7KSu9Xgnnk/K3G/4vb3wkxxtFS4sxNkWB8w==}
+  /meilisearch@0.34.0:
+    resolution: {integrity: sha512-qJV75gT2R38C+9x/o10AjfYmT33uLGOKdcQawrV1v1liI3RUs2ZvBP87bPhhQ06Bws0BA82yVXNLpS6l5wi4uA==}
     dependencies:
       cross-fetch: 3.1.6
     transitivePeerDependencies:
