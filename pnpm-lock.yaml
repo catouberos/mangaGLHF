@@ -80,8 +80,8 @@ devDependencies:
     specifier: ^3.2.0
     version: 3.2.0
   '@types/node':
-    specifier: 18.16.19
-    version: 18.16.19
+    specifier: 18.17.5
+    version: 18.17.5
   '@types/react':
     specifier: 18.2.14
     version: 18.2.14
@@ -578,8 +578,8 @@ packages:
     resolution: {integrity: sha512-lGmaGFoaXHuOLXFvuju2bfvZRqxAqkHPx9Y9IQdQABrinJJshJwfNCKV+u7rR3kJbiqfTF/NhOkcxxAFrObyaA==}
     dev: true
 
-  /@types/node@18.16.19:
-    resolution: {integrity: sha512-IXl7o+R9iti9eBW4Wg2hx1xQDig183jj7YLn8F7udNceyfkbn1ZxmzZXuak20gR40D7pIkIY1kYGx5VIGbaHKA==}
+  /@types/node@18.17.5:
+    resolution: {integrity: sha512-xNbS75FxH6P4UXTPUJp/zNPq6/xsfdJKussCWNOnz4aULWIRwMgP1LgaB5RiBnMX1DPCYenuqGZfnIAx5mbFLA==}
     dev: true
 
   /@types/nprogress@0.2.0:
